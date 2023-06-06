@@ -1,0 +1,11 @@
+.cardArtigo {
+    /* height: 400px; */
+    width: 300px;
+    background-color: aqua;
+    padding: 8px;
+}
+
+section {
+    display: flex;
+    gap: 12px;
+}
